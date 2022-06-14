@@ -1,1 +1,2 @@
-# Ping_Pong_Game
+# Ping_Pong_Game 
+In this project, I created a two-player Ping Pong game using Python. Player 1's paddle (left paddle) is controlled by the keys "w","a","s","d" while Player 2's paddle (right paddle) is controlled by the arrow keys. A point is given to the opposing player when the ball misses the player's paddle and hits the wall behind them instead. This project was created as part of a Udemy Course- 100 Days of Code:The Complete Python Bootcamp for 2022. 
